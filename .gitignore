@@ -1,0 +1,7 @@
+.DS_Store
+*.sqlite
+*.pickle
+praw.ini
+.vscode
+.ipynb_checkpoints
+__pycache__
