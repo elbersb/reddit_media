@@ -5,3 +5,4 @@ praw.ini
 .vscode
 .ipynb_checkpoints
 __pycache__
+reddit_cache
